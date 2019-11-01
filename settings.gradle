@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Android_XML_LOGIN_AND_REGISTER_UI_KIT_2'

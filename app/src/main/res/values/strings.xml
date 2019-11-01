@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android_XML_LOGIN_AND_REGISTER_UI_KIT_2</string>
+    <string name="terms_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="by_signing_up_you_agree_with_our">By signing up, you agree with our</string>
+</resources>
