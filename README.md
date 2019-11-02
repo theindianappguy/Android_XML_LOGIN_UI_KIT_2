@@ -22,6 +22,7 @@ Don't forget to star⭐ the repo if you like what you see😉.
 
 # 👀 Similar Projects
 * [#1 LogIn UI](https://github.com/theindianappguy/Android_XML_LOGIN_AND_REGISTER_UI_KIT_1) - Login Screen & Register Screen XML ONLY made in android studio
+* [#3 Login UI](https://github.com/theindianappguy/Android_XML_LOGIN_UI_KIT_3) - Pink Login UI XML
 
 # 📢 Other popular Uploads
 * [Firebase Login & Register Screen with Phone Auth](https://github.com/theindianappguy/Login-SignupUI-FirebasePhoneauth) - The UI is awesome so is the code
